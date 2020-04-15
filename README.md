@@ -9,7 +9,7 @@ In Final Fantasy X there is a reward and achievement for being able to dodge 200
 ## Usage
 * Have Final Fantasy X running
 * Start the thunder bolt dodger application
-* If it's not working proparly, try modifying the grayscale threshold in the application configuration file
+* If it's not working properly, try modifying the grayscale threshold in the application configuration file
 
 # Thanks
 
